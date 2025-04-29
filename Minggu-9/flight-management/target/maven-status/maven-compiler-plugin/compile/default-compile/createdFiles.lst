@@ -1,0 +1,3 @@
+com\flightapp\domain\Passenger.class
+com\flightapp\domain\Airport.class
+com\flightapp\domain\Flight.class
