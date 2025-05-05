@@ -6,9 +6,9 @@ import java.util.List;
 
 public abstract class Flight {
     private String id;
-    private List<Passenger> passengers = new ArrayList<Passenger>();
+    private List<Passenger> passengers = new ArrayList<>();
 
-    public Flight(String id) {
+    protected Flight(String id) {
         this.id = id;
     }
 
